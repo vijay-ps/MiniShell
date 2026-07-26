@@ -41,7 +41,6 @@ MiniShell/
 ├── MiniShell.java
 ├── AnsiColors.java
 ├── README.md
-└── screenshots/
 ```
 
 ---
@@ -56,45 +55,6 @@ MiniShell/
 | `clear` / `cls`          | Clear the terminal screen            |
 | `exit`                   | Exit the shell                       |
 | Any valid system command | Executed using Java ProcessBuilder   |
-
----
-
-## 📸 Screenshots
-
-### Shell Prompt
-
-> Add screenshot here
-
-```
-John@MiniShell:C:\Projects>
-```
-
----
-
-### Help Command
-
-```
-help
-
-1. cd <directory>
-2. clear
-3. history
-4. help
-5. exit
-```
-
----
-
-### History
-
-```
-history
-
-pwd
-cd Documents
-dir
-history
-```
 
 ---
 
@@ -195,17 +155,3 @@ It serves as a practical introduction to:
 - System Programming with Java
 
 ---
-
-## 📚 References
-
-- Java ProcessBuilder Documentation
-- Java File API Documentation
-- Oracle Java Documentation
-
----
-
-## 👨‍💻 Author
-
-**Vaathiyar**
-
-If you found this project interesting, feel free to ⭐ the repository and share your feedback!
